@@ -17,7 +17,7 @@ package org.springframework.samples.petclinic.owner;
 
 import java.util.Map;
 
-import jakarta.validation.Valid;
+import javax.validation.Valid;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.validation.BindingResult;
